@@ -1,8 +1,7 @@
-package com.parking.lab4isp2;
+package com.parking.parkinglot;
 
 import java.io.*;
 
-import jakarta.servlet.Servlet;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
